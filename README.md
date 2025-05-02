@@ -35,5 +35,3 @@ This project implements **Mano's Basic Computer** architecture using:
 ### ModelSim Verification
 ![Simulation Output](images/simulation.jpg)  
 *Waveform verification of test instructions*
-
-## Project Structure
